@@ -1,3 +1,4 @@
+
 # Milo — Shopping That Understands Older Adults
 
 **DubHacks '26 · Team project · Portfolio case study**
@@ -53,7 +54,7 @@ The submission lists React, Vite, TypeScript, Fastify, SQLite, WebSocket, Silero
 
 ## Collaboration and attribution
 
-Milo was created by a four-person team. Devpost credits Jiayi Zhu, Ziwei Yu, jiuxin77, and 奕晨 卢. The original repository is maintained under the `svedison` GitHub account.
+Milo was created by a four-person team. Devpost credits Jiayi Zhu, Ziwei Yu, jiuxin77, and YiChen Lu. The original repository is maintained under the `svedison` GitHub account.
 
 This repository is a personal case study of a team project. It does not contain a copy of the team's implementation or claim sole authorship. The personal contribution section reflects my responsibilities; the broader product and technical results are credited to the team.
 
@@ -67,3 +68,4 @@ Milo illustrates a product tradeoff: reducing shopping friction while retaining 
 - [Team repository and planning documents](https://github.com/svedison/Dubhacks-26-Team-Meditation)
 
 Project details are based on the public submission reviewed on October 27, 2026; individual responsibilities are supplied by the case-study author. Proposed evaluation measures above are case-study reflections, not completed project results.
+
